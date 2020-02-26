@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_58872_needit_needit</name>
         <next_element/>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-06 06:59:33</sys_created_on>
-        <sys_id>62c1bee3db420010b59adde748961960</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>61a3839f2f4f0410d474d0e62799b6ae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_needit_u_number</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-06 06:59:33</sys_updated_on>
+        <sys_updated_on>2020-02-24 07:41:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employees" max_length="40" name="x_58872_needit_employees" type="collection">
+        <element display="true" label="Name" mandatory="true" max_length="30" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AADHAR Number" mandatory="true" max_length="14" name="u_aadhar" type="string"/>
+        <element label="Do You Have Aadhar" max_length="80" name="u_field_name_5" type="field_name"/>
+        <element label="I don't have the AADHAR" max_length="40" name="u_have_aadhar_no" type="boolean"/>
+        <element label="I have the AADHAR" max_length="40" name="u_have_aadhar_yes" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Do you have AADHAR?" max_length="40" name="u_string_4" type="string"/>
+    </element>
+</database>
